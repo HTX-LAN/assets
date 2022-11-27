@@ -3,6 +3,19 @@
 Any assets or content present in this repository, located at [https://github.com/HTX-LAN/assets](https://github.com/HTX-LAN/assets) is the ownership of HTX LAN, and may not be used without the consent of HTX LAN.  
 HTX LAN is represented by the "LAN udvalg" at HTX Nykøbing Falster, Denmark.
 
+## Table of content
+
+- [Assets](#assets)
+  - [Table of content](#table-of-content)
+  - [Present assets](#present-assets)
+    - [Logo](#logo)
+    - [Banner](#banner)
+      - [Primary](#primary)
+      - [Social panels](#social-panels)
+      - [Social media banner](#social-media-banner)
+    - [QR codes](#qr-codes)
+    - [Poster](#poster)
+
 ## Present assets
 
 ### Logo
