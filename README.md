@@ -15,6 +15,7 @@ HTX LAN is represented by the "LAN udvalg" at HTX Nykøbing Falster, Denmark.
       - [Social media banner](#social-media-banner)
     - [QR codes](#qr-codes)
     - [Poster](#poster)
+    - [Images](#images)
 
 ## Present assets
 
@@ -58,4 +59,8 @@ Present as [PS file](banner/facebook%20banner/facebook%20banner.psd)
 
 ### Poster
 
-Several posters have been created for the HTX LAN, a number of them can be found in the folder [posters](posters)
+Several posters have been created for the HTX LAN, a number of them can be found in the folder [posters](posters).
+
+### Images
+
+Images from previous years can be found in the archive from each year.
